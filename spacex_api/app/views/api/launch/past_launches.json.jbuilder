@@ -1,0 +1,1 @@
+json.array! @launches, partial: '/api/partials/launch', as: :launch 
