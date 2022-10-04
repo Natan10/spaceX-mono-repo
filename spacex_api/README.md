@@ -1,24 +1,11 @@
-# README
+<h1>SpaceX API</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<p>api feita em ruby on rails v6 para consumir da api da spacex.</p>
 
-Things you may want to cover:
+<p>Recursos utilizados</p>
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<ul>
+  <li>Rspec</li>
+  <li>Jbuilder</li>
+  <li>Faraday</li>
+</ul>
